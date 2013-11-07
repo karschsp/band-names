@@ -45,5 +45,6 @@
 * Big Dig
 * The Odd Socks
 * Dead Ball Foul
+* Sunglass Mustache
 * ~~The Manny Trio~~ http://www.themannytrio.com/
 
