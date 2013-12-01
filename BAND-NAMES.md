@@ -27,7 +27,8 @@
 * The First Dates																			
 * The Flagrant Vagrants																			
 * The Free Agents																			
-* The Jills																			
+* The Jills
+* The Low Expectations
 * The Naughty Daughters																			
 * The Nomads																			
 * The Odd Socks																			
