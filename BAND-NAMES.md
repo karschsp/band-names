@@ -7,6 +7,7 @@
 * Dead Ball Foul																			
 * Lunar Tuna																			
 * Moustache		
+* No Comprendo
 * None The Wiser																	
 * Nostril																			
 * Open Concept																			
@@ -19,7 +20,8 @@
 * Sunglass Mustache																			
 * The Afternoon Beers																			
 * The Bench Warmers																			
-* The Blind Dates																			
+* The Blind Dates		
+* The Broken Carousels																	
 * The Bushwackers																			
 * The Dead Giveaways																			
 * The Deep Cuts																			
@@ -43,7 +45,8 @@
 * The Scrapes																			
 * The Second Fiddles																			
 * The Short Straws																			
-* The Sideburns																			
+* The Sideburns		
+* The Sliders																	
 * The Sore Thumbs
 * The Spacious Basements
 * The Tagalongs																			
