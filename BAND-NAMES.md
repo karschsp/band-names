@@ -31,7 +31,8 @@
 * The Exotic Concoctions																			
 * The First Dates																			
 * The Flagrant Vagrants																			
-* The Free Agents																			
+* The Free Agents	
+* The Gallivanters																		
 * The Jills
 * The Low Expectations
 * The Naughty Daughters																			
