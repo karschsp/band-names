@@ -3,6 +3,8 @@
 * Big Boy Pants
 * Big Dig																			
 * Blonde #1																			
+* Caprese
+* Caprice
 * Cola																			
 * Dead Ball Foul																			
 * Electric Fence
