@@ -28,7 +28,8 @@
 * The Broken Carousels																	
 * The Bushwackers																			
 * The Dead Giveaways																			
-* The Deep Cuts																			
+* The Deep Cuts	
+* The Divergent Thumbs																		
 * The Drink Tickets																			
 * The Drink Tokens
 * The Drop Ceilings
@@ -42,6 +43,7 @@
 * The Naughty Daughters																			
 * The Nomads																			
 * The Odd Socks																			
+* The Opposable Thumbs
 * The Package Deals																			
 * The Pedestrians																			
 * The Pine Riders	
