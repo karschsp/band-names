@@ -39,6 +39,7 @@
 * The Free Agents	
 * The Gallivanters																		
 * The Jills
+* The Know-It-Alls
 * The Know-Nothings
 * The Low Expectations
 * The Natural Disasters
