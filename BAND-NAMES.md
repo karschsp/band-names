@@ -27,7 +27,8 @@
 * The Bench Warmers																			
 * The Blind Dates		
 * The Broken Carousels																	
-* The Bushwackers																			
+* The Bushwackers	
+* The Confounders																		
 * The Dead Giveaways																			
 * The Deep Cuts	
 * The Divergent Thumbs																		
