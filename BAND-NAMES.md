@@ -34,6 +34,7 @@
 * The Drink Tickets																			
 * The Drink Tokens
 * The Drop Ceilings
+* The Example Setters
 * The Exotic Concoctions																			
 * The First Dates																			
 * The Flagrant Vagrants																			
@@ -45,8 +46,10 @@
 * The Low Expectations
 * The Natural Disasters
 * The Naughty Daughters																			
-* The Nomads																			
-* The Odd Socks																			
+* The Nomads	
+* The Noodley Bits																		
+* The Odd Socks			
+* The Opponents																
 * The Opposable Thumbs
 * The Package Deals																			
 * The Pedestrians																			
