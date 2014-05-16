@@ -44,6 +44,7 @@
 * The Jills
 * The Know-It-Alls
 * The Know-Nothings
+* The Last Ditch Efforts
 * The Low Expectations
 * The Natural Disasters
 * The Naughty Daughters																			
