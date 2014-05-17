@@ -8,6 +8,7 @@
 * Cola																			
 * Dead Ball Foul																			
 * Electric Fence
+* Hurry Up and The Waits
 * Kings of Falafel
 * Lunar Tuna																			
 * Moustache		
