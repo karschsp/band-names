@@ -2,7 +2,8 @@
 * Beard				
 * Big Boy Pants
 * Big Dig																			
-* Blonde #1																			
+* Blonde #1		
+* California Sting																	
 * Caprese
 * Caprice
 * Cola																			
