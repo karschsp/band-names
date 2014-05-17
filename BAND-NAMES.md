@@ -31,6 +31,7 @@
 * The Confounders																		
 * The Dead Giveaways																			
 * The Deep Cuts	
+* The Dislodged Nets
 * The Divergent Thumbs																		
 * The Drink Tickets																			
 * The Drink Tokens
