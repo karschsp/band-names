@@ -25,7 +25,8 @@
 * Rusty Machine Gun																			
 * Stiff Arm																			
 * Sunglass Mustache																			
-* The Afternoon Beers																			
+* The Afternoon Beers
+* The Automatic Outs																			
 * The Bench Warmers																			
 * The Blind Dates		
 * The Broken Carousels																	
