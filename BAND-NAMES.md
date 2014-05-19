@@ -44,7 +44,8 @@
 * The First Dates																			
 * The Flagrant Vagrants																			
 * The Free Agents	
-* The Gallivanters																		
+* The Gallivanters	
+* The Handfuls																	
 * The Jills
 * The Know-It-Alls
 * The Know-Nothings
