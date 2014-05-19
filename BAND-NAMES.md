@@ -38,6 +38,7 @@
 * The Drink Tickets																			
 * The Drink Tokens
 * The Drop Ceilings
+* The Drop Shadows
 * The Example Setters
 * The Exotic Concoctions																			
 * The First Dates																			
@@ -70,9 +71,12 @@
 * The Spacious Basements
 * The Tagalongs																			
 * The Tells																			
-* The Third Wheels																			
+* The Third Wheels		
+* The Underestimators																	
 * The Understatements																			
 * The Utility Infielders																			
-* The Vicious Cycles			
+* The Vicious Cycles
+* The Vignettes	
+* Understatement Of The Year		
 * Woah, Woah, WOAH!																
 * ~~The Manny Trio~~ http://www.themannytrio.com/	
