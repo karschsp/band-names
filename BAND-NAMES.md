@@ -47,6 +47,7 @@
 * The Free Agents	
 * The Gallivanters	
 * The Handfuls																	
+* The Hard Refresh
 * The Jills
 * The Know-It-Alls
 * The Know-Nothings
