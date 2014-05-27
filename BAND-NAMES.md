@@ -26,7 +26,9 @@
 * Stiff Arm																			
 * Sunglass Mustache																			
 * The Afternoon Beers
-* The Automatic Outs																			
+* The Automatic Outs	
+* The Awkward Moments
+* The Awkward Phases																		
 * The Bench Warmers																			
 * The Blind Dates		
 * The Broken Carousels																	
