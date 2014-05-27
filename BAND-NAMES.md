@@ -1,4 +1,5 @@
-* A Snail’s Pace																			
+* A Snail’s Pace	
+* Awkward City																		
 * Beard				
 * Big Boy Pants
 * Big Dig																			
@@ -9,6 +10,8 @@
 * Cola																			
 * Dead Ball Foul																			
 * Electric Fence
+* Fat Einsteins
+* Franklin and The Mints
 * Hurry Up and The Waits
 * Kings of Falafel
 * Lunar Tuna																			
@@ -49,6 +52,7 @@
 * The Free Agents	
 * The Gallivanters	
 * The Handfuls																	
+* The Hard Refresh
 * The Jills
 * The Know-It-Alls
 * The Know-Nothings
