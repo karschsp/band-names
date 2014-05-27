@@ -22,7 +22,8 @@
 * Old Farts (and Patrick)																		
 * Open Concept																			
 * Permanent Record																			
-* Pete & The Roses																			
+* Pete & The Roses	
+* Police 79																		
 * Public Record																			
 * Rusty Machine																			
 * Rusty Machine Gun																			
