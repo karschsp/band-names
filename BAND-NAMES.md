@@ -1,4 +1,5 @@
-* A Snail’s Pace																			
+* A Snail’s Pace	
+* Awkward City																		
 * Beard				
 * Big Boy Pants
 * Big Dig																			
@@ -10,6 +11,7 @@
 * Dead Ball Foul																			
 * Electric Fence
 * Fat Einsteins
+* Franklin and The Mints
 * Hurry Up and The Waits
 * Kings of Falafel
 * Lunar Tuna																			
