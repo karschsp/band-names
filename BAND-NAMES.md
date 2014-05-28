@@ -26,7 +26,9 @@
 * Police 79																		
 * Public Record																			
 * Rusty Machine																			
-* Rusty Machine Gun																			
+* Rusty Machine Gun		
+* Stephen and The Evens
+* Stephen and The Get-Evens																	
 * Stiff Arm																			
 * Sunglass Mustache																			
 * The Afternoon Beers
@@ -52,6 +54,7 @@
 * The Flagrant Vagrants																			
 * The Free Agents	
 * The Gallivanters	
+* The Get-Evens
 * The Handfuls																	
 * The Hard Refresh
 * The Jills
