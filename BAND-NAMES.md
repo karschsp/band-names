@@ -40,7 +40,8 @@
 * The Broken Carousels																	
 * The Bushwackers
 * The Co-Founders	
-* The Confounders	
+* The Confounders
+* The Conspiracy Theorists	
 * The Contingency Plans																	
 * The Dead Giveaways																			
 * The Deep Cuts	
