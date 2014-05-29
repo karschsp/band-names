@@ -38,8 +38,10 @@
 * The Bench Warmers																			
 * The Blind Dates		
 * The Broken Carousels																	
-* The Bushwackers	
-* The Confounders																		
+* The Bushwackers
+* The Co-Founders	
+* The Confounders	
+* The Contingency Plans																	
 * The Dead Giveaways																			
 * The Deep Cuts	
 * The Dislodged Nets
