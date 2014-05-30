@@ -12,6 +12,7 @@
 * Electric Fence
 * Fat Einsteins
 * Franklin and The Mints
+* Harmonica Jesus
 * Hurry Up and The Waits
 * Kings of Falafel
 * Lunar Tuna																			
