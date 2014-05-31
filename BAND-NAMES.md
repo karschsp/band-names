@@ -12,6 +12,7 @@
 * Electric Fence
 * Fat Einsteins
 * Franklin and The Mints
+* Hot Cheese
 * Hurry Up and The Waits
 * Kings of Falafel
 * Lunar Tuna																			
