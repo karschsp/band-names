@@ -12,7 +12,11 @@
 * Electric Fence
 * Fat Einsteins
 * Franklin and The Mints
+<<<<<<< HEAD
 * Hot Cheese
+=======
+* Harmonica Jesus
+>>>>>>> fdfceebfc61fa6f8867e270e1a71764f36cb123c
 * Hurry Up and The Waits
 * Kings of Falafel
 * Lunar Tuna																			
