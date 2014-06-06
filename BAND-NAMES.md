@@ -1,5 +1,6 @@
 * A Snail’s Pace	
-* Awkward City																		
+* Awkward City	
+* Blanket																	
 * Beard				
 * Big Boy Pants
 * Big Dig																			
@@ -8,7 +9,8 @@
 * Caprese
 * Caprice
 * Chunky Onion
-* Cola																			
+* Cola			
+* Daddy Longlegs																
 * Dead Ball Foul																			
 * Electric Fence
 * Fat Einsteins
@@ -27,7 +29,8 @@
 * Permanent Record																			
 * Pete & The Roses	
 * Police 79																		
-* Public Record																			
+* Public Record		
+* Rug																	
 * Rusty Machine																			
 * Rusty Machine Gun		
 * Stephen and The Evens
@@ -37,7 +40,9 @@
 * The Afternoon Beers
 * The Automatic Outs	
 * The Awkward Moments
-* The Awkward Phases																		
+* The Awkward Phases	
+* The Basket Catches
+* The Beat Pests																	
 * The Bench Warmers																			
 * The Blind Dates		
 * The Broken Carousels																	
@@ -45,7 +50,8 @@
 * The Co-Founders	
 * The Confounders
 * The Conspiracy Theorists	
-* The Contingency Plans																	
+* The Contingency Plans		
+* The Dead Ball Fouls															
 * The Dead Giveaways																			
 * The Deep Cuts	
 * The Dislodged Nets
@@ -55,7 +61,12 @@
 * The Drop Ceilings
 * The Drop Shadows
 * The Example Setters
-* The Exotic Concoctions																			
+* The Exotic Concoctions	
+* The False Alarms
+* The False Memories
+* The False Scents
+* The False Senses
+* The False Starts																	
 * The First Dates																			
 * The Flagrant Vagrants																			
 * The Free Agents	
@@ -63,6 +74,7 @@
 * The Get-Evens
 * The Handfuls																	
 * The Hard Refresh
+* The Insane Asylums
 * The Jills
 * The Know-It-Alls
 * The Know-Nothings
@@ -77,9 +89,13 @@
 * The Opponents																
 * The Opposable Thumbs
 * The Package Deals																			
-* The Pedestrians																			
+* The Pedestrians	
+* The Pete Bests
+* The Pete Worsts																		
 * The Pine Riders	
-* The Playoff Beards																		
+* The Playoff Beards	
+* The Rain Delays
+* The Rock Bottoms																	
 * The Roamers																			
 * The Scrapes																			
 * The Second Fiddles																			
@@ -88,6 +104,8 @@
 * The Sliders																	
 * The Sore Thumbs
 * The Spacious Basements
+* The Street Dates
+* The Sunday Bests
 * The Tagalongs																			
 * The Tells																			
 * The Third Wheels		
