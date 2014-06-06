@@ -47,6 +47,7 @@
 * The Blind Dates		
 * The Broken Carousels																	
 * The Bushwackers
+* The Complete Wild Cards
 * The Co-Founders	
 * The Confounders
 * The Conspiracy Theorists	
@@ -114,6 +115,7 @@
 * The Utility Infielders																			
 * The Vicious Cycles
 * The Vignettes	
+* The Wild Cards
 * The Win-Wins
 * Understatement Of The Year		
 * Woah, Woah, WOAH!																
