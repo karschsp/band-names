@@ -45,6 +45,7 @@
 * The Beat Pests																	
 * The Bench Warmers																			
 * The Blind Dates		
+* The Broken Bats
 * The Broken Carousels																	
 * The Bushwackers
 * The Complete Wild Cards
