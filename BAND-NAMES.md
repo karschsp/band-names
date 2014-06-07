@@ -76,6 +76,8 @@
 * The Gallivanters	
 * The Get-Evens
 * The Good Times
+* The Half Days
+* The Half Ways
 * The Handfuls																	
 * The Hard Refresh
 * The Insane Asylums
