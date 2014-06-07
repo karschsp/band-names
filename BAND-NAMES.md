@@ -18,6 +18,7 @@
 * Hot Cheese
 * Harmonica Jesus
 * Hurry Up and The Waits
+* In Cahoots
 * Kings of Falafel
 * Lunar Tuna																			
 * Moustache		
@@ -98,6 +99,7 @@
 * The Pete Worsts																		
 * The Pine Riders	
 * The Playoff Beards	
+* The Presets
 * The Rain Delays
 * The Rock Bottoms																	
 * The Roamers																			
