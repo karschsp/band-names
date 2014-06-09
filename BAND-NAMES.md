@@ -37,7 +37,8 @@
 * Stephen and The Evens
 * Stephen and The Get-Evens																	
 * Stiff Arm																			
-* Sunglass Mustache																			
+* Sunglass Mustache		
+* Sunset Ice Cream																	
 * The Afternoon Beers
 * The Automatic Outs	
 * The Awkward Moments
