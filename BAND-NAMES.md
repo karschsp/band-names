@@ -37,6 +37,7 @@
 * Soul Tooth
 * Stephen and The Evens
 * Stephen and The Get-Evens																	
+* Stick and Move
 * Stiff Arm																			
 * Sunglass Mustache		
 * Sunset Ice Cream																	
