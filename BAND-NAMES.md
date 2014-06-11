@@ -109,7 +109,9 @@
 * The Rock Bottoms																	
 * The Roamers																			
 * The Scrapes																			
-* The Second Fiddles																			
+* The Second Fiddles
+* The Second Hands
+* The Secondhand Smokes																			
 * The Short Straws																			
 * The Sideburns		
 * The Sliders																	
