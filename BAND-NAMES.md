@@ -38,7 +38,8 @@
 * Stephen and The Evens
 * Stephen and The Get-Evens																	
 * Stick and Move
-* Stiff Arm																			
+* Stiff Arm		
+* Suicide Squeeze																	
 * Sunglass Mustache		
 * Sunset Ice Cream																	
 * The Afternoon Beers
