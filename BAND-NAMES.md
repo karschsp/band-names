@@ -20,7 +20,9 @@
 * Hurry Up and The Waits
 * In Cahoots
 * Kings of Falafel
-* Lunar Tuna																			
+* Lunar Tuna	
+* Man Down
+* Man Overboard																		
 * Moustache		
 * No Comprendo
 * None The Wiser																	
