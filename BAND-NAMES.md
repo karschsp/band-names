@@ -15,6 +15,7 @@
 * Electric Fence
 * Fat Einsteins
 * Franklin and The Mints
+* Golden Sombrero
 * Hot Cheese
 * Harmonica Jesus
 * Hurry Up and The Waits
