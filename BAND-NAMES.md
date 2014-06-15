@@ -1,4 +1,5 @@
 * A Snail’s Pace	
+* Abbey Rogue
 * Awkward City	
 * Blanket																	
 * Beard				
@@ -24,7 +25,8 @@
 * Kings of Falafel
 * Lunar Tuna	
 * Man Down
-* Man Overboard																		
+* Man Overboard	
+* Milk Moustache																	
 * Moustache		
 * No Comprendo
 * None The Wiser																	
@@ -50,6 +52,7 @@
 * The Automatic Outs	
 * The Awkward Moments
 * The Awkward Phases	
+* The Backseat Drivers
 * The Basket Catches
 * The Beat Pests																	
 * The Bench Warmers	
