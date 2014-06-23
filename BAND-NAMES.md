@@ -98,6 +98,7 @@
 * The Know-It-Alls
 * The Know-Nothings
 * The Last Ditch Efforts
+* The Last Straws
 * The Low Expectations
 * The Natural Disasters
 * The Naughty Daughters		
