@@ -33,6 +33,7 @@
 * Lunar Tuna	
 * Man Down
 * Man Overboard	
+* Mental Patience
 * Milk Moustache																	
 * Moustache		
 * No Comprendo
@@ -110,6 +111,8 @@
 * The Half Ways
 * The Handfuls																	
 * The Hard Refresh
+* The Independence
+* The Independents
 * The Infield Fly Rules
 * The Insane Asylums
 * The Jills
