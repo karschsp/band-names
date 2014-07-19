@@ -20,6 +20,7 @@
 * Elastic Disaster																		
 * Electric Fence
 * Fat Einsteins
+* Fireworks Donut
 * Franklin and The Mints
 * Fielder's Choice
 * Golden Sombrero
