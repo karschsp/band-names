@@ -17,6 +17,7 @@
 * Chewbacca Sandwich
 * Chocolate Mustache
 * Chunky Onion
+* Clandestine Breakfast
 * Cola			
 * Daddy Longlegs																
 * Dead Ball Foul	
