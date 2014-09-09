@@ -94,7 +94,9 @@
 * The Bent Elbows
 * The Best Guesses	
 * The Bikeshedding Apostrophes																	
-* The Blind Dates		
+* The Blind Dates	
+* The Broad Brush Strokes
+* The Broader Brush Strokes	
 * The Broken Bats
 * The Broken Carousels																	
 * The Bushwackers
