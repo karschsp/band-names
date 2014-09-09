@@ -218,5 +218,6 @@
 * The Win-Wins
 * Understatement Of The Year		
 * The Yellow Helicopters
+* Wicked Licorice
 * Woah, Woah, WOAH!																
 * ~~The Manny Trio~~ http://www.themannytrio.com/	
