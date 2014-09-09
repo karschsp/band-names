@@ -41,6 +41,7 @@
 * Jack and The Bean Stalkers
 * Kings of Falafel
 * Lunar Tuna	
+* Major Fails
 * Man Down
 * Man Overboard	
 * Mental Patience
