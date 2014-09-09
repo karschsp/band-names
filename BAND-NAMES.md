@@ -1,6 +1,7 @@
 * A Snail’s Pace	
 * Abbey Rogue
 * Acid Disaster
+* Aftershave Nuggets
 * Awkward City	
 * Balk
 * Blanket																	
@@ -18,7 +19,7 @@
 * Chocolate Mustache
 * Chunky Onion
 * Clandestine Breakfast
-* Cola			
+* Cola
 * Daddy Longlegs																
 * Dead Ball Foul
 * Decent Atmosphere	
@@ -59,7 +60,8 @@
 * Pistachio Mustachio
 * Plastic Basket
 * Plastic Disaster
-* Police 79																		
+* Police 79		
+* Pork Bellies
 * Public Record		
 * Roast Beef Sundae
 * Rug																	
@@ -68,6 +70,7 @@
 * Slurve	
 * Smokestack Mustache
 * Soggy Pajamas
+* String Cheese Nightmare
 * Soul Tooth
 * Stage Age
 * Stephen and The Evens
@@ -76,7 +79,8 @@
 * Stiff Arm		
 * Suicide Squeeze																	
 * Sunglass Mustache		
-* Sunset Ice Cream																	
+* Sunset Ice Cream		
+* Teenage Apathy
 * The Afternoon Beers
 * The Afternoon Thunderstorms
 * The Automatic Outs	
