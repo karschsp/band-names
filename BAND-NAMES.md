@@ -38,6 +38,7 @@
 * Harmonica Jesus
 * Hurry Up and The Waits
 * Impasse
+* Insider Info
 * In Cahoots
 * Jack and The Bean Stalkers
 * Kings of Falafel
@@ -209,6 +210,7 @@
 * The Third Wheels	
 * The Traffic Cops
 * The Trophy Wives	
+* The Twisted Haikus
 * The Underestimators																	
 * The Understatements	
 * The Used Shoes																		
