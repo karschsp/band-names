@@ -103,7 +103,9 @@
 * The Broken Bats
 * The Broken Carousels																	
 * The Bushwackers
+* The Casual Yellers
 * The Cheap Dates
+* The Close Talkers
 * The Clues
 * The Complete Wild Cards
 * The Co-Founders	
