@@ -15,6 +15,7 @@
 * Caprice
 * Captain Distraction
 * Charlie Cole and The Brickettes
+* Chaleyhouse McCain
 * Chewbacca Sandwich
 * Chocolate Mustache
 * Chunky Onion
