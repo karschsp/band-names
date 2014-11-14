@@ -43,6 +43,7 @@
 * In Cahoots
 * Jack and The Bean Stalkers
 * Kings of Falafel
+* Laugh Muscle
 * Lunar Tuna	
 * Major Fails
 * Man Down
