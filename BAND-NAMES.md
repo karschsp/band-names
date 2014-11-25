@@ -156,6 +156,7 @@
 * The Hard Refresh
 * The Head First Slides
 * The Heavy Bags
+* The Human Computers
 * The Humdingers
 * The Independence
 * The Independents
