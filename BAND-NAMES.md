@@ -27,6 +27,7 @@
 * Defensive Indifference
 * Elastic Disaster																		
 * Electric Fence
+* Evolving Sausagemaker
 * Exploding Jumping Jacks
 * Fat Einsteins
 * Fireworks Donut
