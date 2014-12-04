@@ -141,7 +141,8 @@
 * The False Senses
 * The False Starts																	
 * The First Dates																			
-* The Flagrant Vagrants	
+* The Flagrant Vagrants
+* The Flying Bys and The Seat of Your Pants
 * The Food Chains
 * The Foul Balls																		
 * The Free Agents	
@@ -199,7 +200,8 @@
 * The Rock Bottoms																	
 * The Roamers	
 * The Scheduled Interruptions																		
-* The Scrapes																			
+* The Scrapes															
+* The Seat of Your Pants and The Flying Bys
 * The Second Fiddles
 * The Second Hands
 * The Secondhand Smokes																			
