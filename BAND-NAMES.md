@@ -38,6 +38,7 @@
 * Grand Slam
 * Hot Cheese
 * Harmonica Jesus
+* Hipster Nonsense
 * Hurry Up and The Waits
 * Impasse
 * Insider Info
@@ -173,6 +174,7 @@
 * The Last Minutes
 * The Last Straws
 * The Lazy Eyes
+* The Librarians
 * The Loaded Bases
 * The Long Overdues
 * The Low Expectations
