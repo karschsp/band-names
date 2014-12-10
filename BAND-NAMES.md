@@ -45,6 +45,7 @@
 * Insider Info
 * In Cahoots
 * Jack and The Bean Stalkers
+* King Moonracer
 * Kings of Falafel
 * Laugh Muscle
 * Lunar Tuna	
@@ -122,7 +123,7 @@
 * The Creaky Knees
 * The Crossing Guards
 * The Dead Ball Fouls															
-* The Dead Giveaways																			
+* ~~The Dead Giveaways~~																		
 * The Deep Cuts	
 * The Dependents
 * The Dislodged Nets
@@ -239,6 +240,7 @@
 * The Win-Wins
 * Understatement Of The Year		
 * The Yellow Helicopters
+* Yukon Cornelious
 * Wicked Licorice
 * Woah, Woah, WOAH!																
 * ~~The Manny Trio~~ http://www.themannytrio.com/	
