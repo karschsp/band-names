@@ -170,6 +170,7 @@
 * The Infield Fly Rules
 * The Inside Jokes
 * The Insane Asylums
+* The Jerk Cats
 * The Jills
 * The Jolly Goods
 * The Kickbacks
