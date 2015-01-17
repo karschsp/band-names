@@ -3,6 +3,7 @@
 * Acid Disaster
 * Aftershave Nuggets
 * Agilefall
+* Astro and The Knots
 * Awkward City	
 * Balk
 * Blanket																	
@@ -22,19 +23,23 @@
 * Chunky Onion
 * Clandestine Breakfast
 * Cola
-* Daddy Longlegs																
+* Daddy Longlegs	
+* Dead Air															
 * Dead Ball Foul
 * Decent Atmosphere	
 * Defensive Indifference
 * Definition Before Decoration
+* E and The Gyptians
 * Elastic Disaster																		
 * Electric Fence
 * Evolving Sausagemaker
 * Exploding Jumping Jacks
 * Fat Einsteins
-* Fireworks Donut
-* Franklin and The Mints
 * Fielder's Choice
+* Final Vinyl
+* Fireworks Donut
+* Flying By and The Seats of Your Pants
+* Franklin and The Mints
 * Glove-Hand Flip
 * Golden Sombrero
 * Grand Slam
@@ -48,6 +53,7 @@
 * Jack and The Bean Stalkers
 * King Moonracer
 * Kings of Falafel
+* Kip and The Kaspers
 * Laugh Muscle
 * Lunar Tuna	
 * Major Fails
@@ -61,7 +67,8 @@
 * None The Wiser																	
 * Nostril	
 * Off and Running
-* Old Farts (and Patrick)																		
+* Old Farts (and Patrick)	
+* One Rotten Apple and The Spoiled Bunches																	
 * Open Concept
 * Pantsless Dancers																		
 * Permanent Record																			
@@ -73,6 +80,7 @@
 * Pork Bellies
 * Public Record		
 * Reglaze the Subroutine
+* Required Attire
 * Roast Beef Sundae
 * Rug																	
 * Rusty Machine																			
@@ -92,6 +100,7 @@
 * Sunglass Mustache		
 * Sunset Ice Cream		
 * Teenage Apathy
+* The 157s
 * The Afternoon Beers
 * The Afternoon Thunderstorms
 * The Automatic Outs	
@@ -105,6 +114,7 @@
 * The Benchmarks
 * The Bent Elbows
 * The Best Guesses	
+* The Big Ifs
 * The Bikeshedding Apostrophes																	
 * The Blind Dates	
 * The Bored Games
@@ -124,10 +134,12 @@
 * The Contingency Plans		
 * The Creaky Knees
 * The Crossing Guards
-* The Dead Ball Fouls															
+* The Dead Ball Fouls
+* The Dead Ends															
 * ~~The Dead Giveaways~~																		
 * The Deep Cuts	
 * The Dependents
+* The Desperation Situations
 * The Dislodged Nets
 * The Divergent Thumbs
 * The Double Edged Swords
@@ -145,7 +157,8 @@
 * The False Memories
 * The False Scents
 * The False Senses
-* The False Starts																	
+* The False Starts	
+* The Final Drafts																
 * The First Dates																			
 * The Flagrant Vagrants
 * The Flying Bys and The Seat of Your Pants
@@ -157,12 +170,14 @@
 * The Go-Betweens
 * The Good Times
 * The Grown Up Children
+* The Hard Code
 * The Half Days
 * The Half Ways
 * The Handfuls																	
 * The Hard Refresh
 * The Head First Slides
 * The Heavy Bags
+* The High-Class Hobos
 * The Human Computers
 * The Humdingers
 * The Independence
@@ -170,6 +185,7 @@
 * The Infield Fly Rules
 * The Inside Jokes
 * The Insane Asylums
+* The Iron-Ons
 * The Jerk Cats
 * The Jills
 * The Jolly Goods
@@ -194,6 +210,7 @@
 * The Opponents																
 * The Opposable Thumbs
 * The Opposite Fields
+* The Obsessive Compulsives
 * The Overstatements
 * The Package Deals																			
 * The Pedestrians	
@@ -207,8 +224,11 @@
 * The Procrastinators
 * The Queen's English
 * The Rain Delays
+* The Revolving Doors
 * The Rock Bottoms																	
 * The Roamers	
+* The Rookie Moves
+* The Rusty Tracks
 * The Scheduled Interruptions																		
 * The Scrapes															
 * The Seat of Your Pants and The Flying Bys
@@ -218,9 +238,12 @@
 * The Short Straws																			
 * The Sideburns		
 * The Sleestacks
-* The Sliders																	
+* The Sliders		
+* The Social Strategists															
 * The Sore Thumbs
 * The Spacious Basements
+* The Spazfests
+* The Straw Graspers
 * The Street Dates
 * The Strip Malls
 * The Sunday Bests
@@ -241,6 +264,7 @@
 * The Whole Rolls
 * The Wild Cards
 * The Win-Wins
+* The Worst Case Scenarios
 * Understatement Of The Year		
 * The Yellow Helicopters
 * Yukon Cornelious
