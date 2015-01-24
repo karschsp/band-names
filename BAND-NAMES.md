@@ -43,9 +43,10 @@
 * Glove-Hand Flip
 * Golden Sombrero
 * Grand Slam
-* Hot Cheese
 * Harmonica Jesus
+* Headset Etiquette
 * Hipster Nonsense
+* Hot Cheese
 * Hurry Up and The Waits
 * Impasse
 * Insider Info
