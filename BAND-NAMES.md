@@ -272,6 +272,7 @@
 * Understatement Of The Year		
 * The Yellow Helicopters
 * Yukon Cornelious
+* Watermelon Sneakers
 * Wicked Licorice
 * Woah, Woah, WOAH!																
 * ~~The Manny Trio~~ http://www.themannytrio.com/	
