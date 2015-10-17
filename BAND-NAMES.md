@@ -42,7 +42,8 @@
 * Kings of Falafel
 * Lunar Tuna	
 * Man Down
-* Man Overboard	
+* Man Overboard
+* Merch
 * Mental Patience
 * Milk Moustache																	
 * Moustache		
