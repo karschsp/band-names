@@ -91,6 +91,7 @@
 * Rusty Machine																			
 * Rusty Machine Gun	
 * Slurve	
+* Slightly Less Batshit
 * Smokestack Mustache
 * Soggy Pajamas
 * Steamroller
