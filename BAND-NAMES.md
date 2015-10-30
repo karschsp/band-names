@@ -107,6 +107,7 @@
 * Sent From My Wife's iPad
 * Shiv
 * Slurve	
+* Slightly Less Batshit
 * Smokestack Mustache
 * Smoothie Mishap
 * Soggy Pajamas
