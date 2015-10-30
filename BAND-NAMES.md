@@ -73,6 +73,7 @@
 * Meatball Splash
 * Medicinal Queso
 * Mental Patience
+* Merch
 * Milk Moustache																	
 * Moustache		
 * Navy Flats
@@ -320,8 +321,9 @@
 * The Win-Wins
 * The Worst Case Scenarios
 * Tickly Whiskers
-* Understatement Of The Year		
 * The Yellow Helicopters
+* Tweak the PRAM
+* Understatement Of The Year
 * Yukon Cornelious
 * Watermelon Sneakers
 * Wicked Licorice
