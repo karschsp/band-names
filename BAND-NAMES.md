@@ -98,7 +98,8 @@
 * Reglaze the Subroutine
 * Required Attire
 * Roast Beef Sundae
-* Rug																	
+* Rug			
+* Rustic Crust														
 * Rusty Machine																			
 * Rusty Machine Gun	
 * Secret Teeth
@@ -325,5 +326,6 @@
 * Watermelon Sneakers
 * Wicked Licorice
 * Wishniak
-* Woah, Woah, WOAH!																
+* Woah, Woah, WOAH!		
+* Wrecked Angles														
 * ~~The Manny Trio~~ http://www.themannytrio.com/	
