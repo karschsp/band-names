@@ -1,17 +1,22 @@
+* 15 Minute Crash
 * A Snail’s Pace	
 * Abbey Rogue
+* Abnormality Threshold
 * Acid Disaster
 * Addiction Switch
 * Aftershave Nuggets
 * Agilefall
+* Ample H
 * Arrows Pointing Down
 * Astro and The Knots
+* Audio Drip
 * Awkward City	
 * Balk
 * Blanket																	
 * Beard				
 * Big Boy Pants
-* Big Dig																			
+* Big Dig	
+* Billy Casino																		
 * Blonde #1		
 * Boney Notch
 * Booze Traveller
@@ -20,20 +25,25 @@
 * Caprese
 * Caprice
 * Captain Distraction
+* Chain Wallet
 * Charlie Cole and The Brickettes
-* Chaleyhouse McCain
+* Charleyhouse McCain
 * Chewbacca Sandwich
 * Chocolate Mustache
 * Chunky Onion
 * Clandestine Breakfast
 * Cola
+* Collaborative Hats
+* Crusty Mustard
 * Daddy Longlegs	
 * Dead Air															
 * Dead Ball Foul
 * Decent Atmosphere	
 * Defensive Indifference
 * Definition Before Decoration
+* Delayed...Reaction
 * Demons of Convenience
+* Devil and The Advocates
 * Drone Yellers
 * E and The Gyptians
 * Elastic Disaster	
@@ -43,11 +53,14 @@
 * Evolving Sausagemaker
 * Exploding Jumping Jacks
 * Fat Einsteins
+* Faulty Workflow
 * Fielder's Choice
 * Final Vinyl
 * Fireworks Donut
 * Flying By and The Seats of Your Pants
+* Four Down Territory
 * Franklin and The Mints
+* Ghost Feedback
 * Glove-Hand Flip
 * Golden Sombrero
 * Grand Slam
@@ -55,13 +68,17 @@
 * Harmonica Jesus
 * Headset Etiquette
 * Hipster Nonsense
+* Histories Mysteries
 * Hole of Confusion
+* HOOD
 * Hot Cheese
+* Hot Pursuit
 * Hurry Up and The Waits
 * Impasse
 * Insider Info
 * In Cahoots
 * Jack and The Bean Stalkers
+* Judas Prince
 * King Moonracer
 * Kings of Falafel
 * Kip and The Kaspers
@@ -75,7 +92,8 @@
 * Mental Patience
 * Merch
 * Milk Moustache																	
-* Moustache		
+* Moustache	
+* Nap Infraction	
 * Navy Flats
 * No Comprendo
 * None The Wiser																	
@@ -95,36 +113,47 @@
 * Plastic Disaster
 * Police 79		
 * Pork Bellies
+* Practical Maps
 * Public Record		
+* Radio Silence
 * Reglaze the Subroutine
 * Required Attire
 * Roast Beef Sundae
 * Rug			
-* Rustic Crust														
+* Rustic Crust	
+* Rusty Custard													
 * Rusty Machine																			
 * Rusty Machine Gun	
+* S8
 * Secret Teeth
+* Sensory Gate
 * Sent From My Wife's iPad
 * Shiv
+* Sleeve
+* Sluggo
 * Slurve	
 * Slightly Less Batshit
 * Smokestack Mustache
 * Smoothie Mishap
 * Soggy Pajamas
 * Somebody Else’s Problem
+* Soul Tooth
+* Speed Trap
+* Static Fallback
 * Steamroller
 * String Cheese Nightmare
-* Soul Tooth
 * Stage Age
 * Stephen and The Evens
 * Stephen and The Get-Evens																	
 * Stick and Move
 * Stiff Arm		
 * Stretch Reflex
+* Swamp Fox
 * Suicide Squeeze																	
 * Sunglass Mustache		
 * Sunset Ice Cream		
 * Teenage Apathy
+* Wound Man
 * The 157s
 * The Afternoon Beers
 * The Afternoon Thunderstorms
@@ -141,7 +170,9 @@
 * The Bent Elbows
 * The Best Guesses	
 * The Big Ifs
-* The Bikeshedding Apostrophes																	
+* The Bikeshedding Apostrophes	
+* The Bitter
+* The Bitter Rivals																
 * The Blind Dates	
 * The Bored Games
 * The Broad Brush Strokes
@@ -149,9 +180,12 @@
 * The Broken Bats
 * The Broken Carousels																	
 * The Bushwackers
+* The Button Mashers
 * The Casino Rugs
 * The Casual Fridays
 * The Casual Yellers
+* The Chalk Outlines
+* The Chalkboard Scratchers
 * The Chapters
 * The Cheap Dates
 * The Close Talkers
@@ -164,6 +198,7 @@
 * The Contingency Plans
 * The Copious Notes		
 * The Creaky Knees
+* The Crooked Numbers
 * The Crossing Guards
 * The Current Versions
 * The Dead Ball Fouls
@@ -173,6 +208,8 @@
 * The Deep Cuts	
 * The Dependents
 * The Desperation Situations
+* The Diabolical Chaps
+* The Digestible Chunks
 * The Dislodged Nets
 * The Divergent Thumbs
 * The Double Edged Swords
@@ -181,6 +218,7 @@
 * The Drink Tokens
 * The Drop Ceilings
 * The Drop Shadows
+* The Drones
 * The Dual Citizens
 * The Dust Ruffles
 * The Example Setters
@@ -207,16 +245,23 @@
 * The Game Checks
 * The Get-Evens
 * The Go-Betweens
+* The Goldrushers
 * The Good Times
+* The Good Tippers 
+* The Grand Scheme of Things
 * The Grown Up Children
 * The Hard Code
 * The Half Days
+* The Half-Tempo Anthems 
+* The Half-Trick Ponies
 * The Half Ways
 * The Handfuls																	
 * The Hard Refresh
 * The Head First Slides
 * The Heavy Bags
+* The Heavy Ornaments
 * The High-Class Hobos
+* The High School Rivals
 * The Hotel Rugs
 * The Human Computers
 * The Humdingers
@@ -226,7 +271,9 @@
 * The Independents
 * The Infield Fly Rules
 * The Inside Jokes
+* The Inside Tippers
 * The Insane Asylums
+* The Irish Exits
 * The Iron-Ons
 * The Intelligent Elephants
 * The Jerk Cats
@@ -235,6 +282,7 @@
 * The Kickbacks
 * The Know-It-Alls
 * The Know-Nothings
+* The Lapsed Catholics
 * The Last Ditch Efforts
 * The Last Minutes
 * The Last Straws
@@ -244,10 +292,15 @@
 * The Lifeless Chats
 * The Loaded Bases
 * The Long Overdues
+* The Low Bids
 * The Low Expectations
+* The Lowered Inhibitions
 * The Magnetic Strips
+* The Mysterious Breathers
+* The Narratives
 * The Natural Disasters
-* The Naughty Daughters		
+* The Naughty Daughters	
+* The Neck Shorteners	
 * The Nervous Tics																	
 * The Nomads	
 * The Noodley Bits																		
@@ -264,17 +317,25 @@
 * The Pick-offs																	
 * The Pine Riders
 * The Plan Bs	
-* The Playoff Beards	
+* The Playoff Beards
+* The Poor Tippers	
+* The Potential Disasters
 * The Presets
+* The Pressure Ulcers
 * The Procrastinators
 * The Queen's English
 * The Quick and Dirty
 * The Rain Delays
+* The Random Examples
 * The Revolving Doors
+* The Right-Hand Men
+* The Rival Sons
+* The Rivals
 * The Rock Bottoms																	
 * The Roamers	
 * The Romberg Signs
 * The Rookie Moves
+* The Russian Discussions
 * The Rusty Tracks
 * The Scheduled Interruptions																		
 * The Scrapes		
@@ -282,35 +343,47 @@
 * The Seat of Your Pants and The Flying Bys
 * The Second Fiddles
 * The Second Hands
-* The Secondhand Smokes																			
-* The Short Straws																			
+* The Secondhand Smokes	
+* The Self-Referentials
+* The Shoestring Budgets
+* The Short Necks																		
+* The Short Straws	
+* The Siblings																		
 * The Sideburns		
 * The Sleestacks
 * The Sleeves
-* The Sliders		
+* The Sliders	
+* The Slim Pickers	
 * The Sloppy Octaves
+* The Slump Busters
 * The Social Strategists															
 * The Sore Thumbs
 * The Spacious Basements
 * The Spazfests
+* The Stop n Gos
 * The Straw Graspers
 * The Street Dates
 * The Strip Malls
 * The Subtle Promotions
 * The Sunday Bests
 * The Swashbucklers
+* The Switchback Strategies
 * The Tagalongs	
 * The Time Stamps																		
 * The Tells																			
 * The Third Wheels	
 * The Thoroughly Thrilled
+* The Three & Outs
+* The Tipping Points
 * The Traffic Cops
 * The Trophy Wives	
+* The Twisted Limbs
 * The Twisted Haikus
-* The Unsocial Conventions
 * The Undercard
 * The Underestimators																	
 * The Understatements	
+* The Unneccesaries
+* The Unsocial Conventions
 * The Used Shoes																		
 * The Utility Infielders																			
 * The Vicious Cycles
@@ -321,8 +394,10 @@
 * The Wild Cards
 * The Win-Wins
 * The Worst Case Scenarios
-* Tickly Whiskers
 * The Yellow Helicopters
+* The Yes-Men
+* Tickly Whiskers
+* Today's Potatoes
 * Tweak the PRAM
 * Understatement Of The Year
 * Yukon Cornelious
@@ -332,3 +407,4 @@
 * Woah, Woah, WOAH!		
 * Wrecked Angles														
 * ~~The Manny Trio~~ http://www.themannytrio.com/	
+* Yellow Fluff
