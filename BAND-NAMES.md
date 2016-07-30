@@ -79,6 +79,7 @@
 * In Cahoots
 * Jack and The Bean Stalkers
 * Judas Prince
+* Kernel Panic
 * King Moonracer
 * Kings of Falafel
 * Kip and The Kaspers
