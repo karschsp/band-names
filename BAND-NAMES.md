@@ -15,7 +15,7 @@
 * Blanket																	
 * Beard				
 * Big Boy Pants
-* Big Dig	
+* Big Dig																			
 * Billy Casino																		
 * Blonde #1		
 * Boney Notch
@@ -32,10 +32,10 @@
 * Chocolate Mustache
 * Chunky Onion
 * Clandestine Breakfast
-* Cola
+* Cola			
 * Collaborative Hats
 * Crusty Mustard
-* Daddy Longlegs	
+* Daddy Longlegs																
 * Dead Air															
 * Dead Ball Foul
 * Decent Atmosphere	
@@ -46,7 +46,7 @@
 * Devil and The Advocates
 * Drone Yellers
 * E and The Gyptians
-* Elastic Disaster	
+* Elastic Disaster																		
 * Elastic Pants																	
 * Electric Fence
 * Evil Cheese
@@ -87,20 +87,21 @@
 * Lunar Tuna	
 * Major Fails
 * Man Down
-* Man Overboard	
+* Man Overboard
 * Meatball Splash
 * Medicinal Queso
 * Mental Patience
 * Merch
 * Milk Moustache																	
-* Moustache	
+* Moustache		
 * Nap Infraction	
 * Navy Flats
+* Nightmare Gourds
 * No Comprendo
 * None The Wiser																	
 * Nostril	
 * Off and Running
-* Old Farts (and Patrick)	
+* Old Farts (and Patrick)																		
 * One Rotten Apple and The Spoiled Bunches																	
 * Open Concept
 * Pantsless Dancers																		
@@ -112,7 +113,7 @@
 * Pistachio Mustachio
 * Plastic Basket
 * Plastic Disaster
-* Police 79		
+* Police 79																		
 * Pork Bellies
 * Practical Maps
 * Public Record		
@@ -120,7 +121,7 @@
 * Reglaze the Subroutine
 * Required Attire
 * Roast Beef Sundae
-* Rug			
+* Rug																	
 * Rustic Crust	
 * Rusty Custard													
 * Rusty Machine																			
@@ -153,7 +154,7 @@
 * Swamp Fox
 * Suicide Squeeze																	
 * Sunglass Mustache		
-* Sunset Ice Cream		
+* Sunset Ice Cream																	
 * Teenage Apathy
 * Wound Man
 * The 157s
@@ -172,10 +173,10 @@
 * The Bent Elbows
 * The Best Guesses	
 * The Big Ifs
-* The Bikeshedding Apostrophes	
+* The Bikeshedding Apostrophes																	
 * The Bitter
 * The Bitter Rivals																
-* The Blind Dates	
+* The Blind Dates		
 * The Bored Games
 * The Broad Brush Strokes
 * The Broader Brush Strokes	
@@ -197,13 +198,13 @@
 * The Co-Founders	
 * The Confounders
 * The Conspiracy Theorists	
-* The Contingency Plans
+* The Contingency Plans		
 * The Copious Notes		
 * The Creaky Knees
 * The Crooked Numbers
 * The Crossing Guards
 * The Current Versions
-* The Dead Ball Fouls
+* The Dead Ball Fouls															
 * The Dead Ends															
 * ~~The Dead Giveaways~~	
 * The Deans																	
@@ -232,16 +233,16 @@
 * The False Memories
 * The False Scents
 * The False Senses
-* The False Starts	
+* The False Starts																	
 * The Final Chapters
 * The Final Drafts
 * The Fine-Liners																
 * The First Dates																			
-* The Flagrant Vagrants
+* The Flagrant Vagrants	
 * The Flying Bys and The Seat of Your Pants
 * The Food Chains
 * The Foul Balls																		
-* The Free Agents
+* The Free Agents	
 * The Front Ends	
 * The Gallivanters	
 * The Game Checks
@@ -301,7 +302,7 @@
 * The Mysterious Breathers
 * The Narratives
 * The Natural Disasters
-* The Naughty Daughters	
+* The Naughty Daughters		
 * The Neck Shorteners	
 * The Nervous Tics																	
 * The Nomads	
@@ -317,9 +318,9 @@
 * The Pete Bests
 * The Pete Worsts	
 * The Pick-offs																	
-* The Pine Riders
+* The Pine Riders	
 * The Plan Bs	
-* The Playoff Beards
+* The Playoff Beards	
 * The Poor Tippers	
 * The Potential Disasters
 * The Presets
@@ -340,21 +341,21 @@
 * The Russian Discussions
 * The Rusty Tracks
 * The Scheduled Interruptions																		
-* The Scrapes		
+* The Scrapes																			
 * The Scruffs													
 * The Seat of Your Pants and The Flying Bys
 * The Second Fiddles
 * The Second Hands
-* The Secondhand Smokes	
+* The Secondhand Smokes																			
 * The Self-Referentials
 * The Shoestring Budgets
 * The Short Necks																		
-* The Short Straws	
+* The Short Straws																			
 * The Siblings																		
 * The Sideburns		
 * The Sleestacks
 * The Sleeves
-* The Sliders	
+* The Sliders																	
 * The Slim Pickers	
 * The Sloppy Octaves
 * The Slump Busters
@@ -401,12 +402,12 @@
 * Tickly Whiskers
 * Today's Potatoes
 * Tweak the PRAM
-* Understatement Of The Year
+* Understatement Of The Year	
 * Yukon Cornelious
 * Watermelon Sneakers
 * Wicked Licorice
 * Wishniak
-* Woah, Woah, WOAH!		
+* Woah, Woah, WOAH!																
 * Wrecked Angles														
 * ~~The Manny Trio~~ http://www.themannytrio.com/	
 * Yellow Fluff
