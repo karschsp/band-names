@@ -404,6 +404,7 @@
 * Tweak the PRAM
 * Understatement Of The Year	
 * Yukon Cornelious
+* Vagenda of Manocide
 * Watermelon Sneakers
 * Wicked Licorice
 * Wishniak
