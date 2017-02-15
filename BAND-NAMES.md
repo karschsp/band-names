@@ -308,6 +308,7 @@
 * The Nomads	
 * The Noodley Bits																		
 * The Odd Socks			
+* The Odd Facets
 * The Opponents																
 * The Opposable Thumbs
 * The Opposite Fields
