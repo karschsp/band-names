@@ -11,6 +11,7 @@
 * Astro and The Knots
 * Audio Drip
 * Awkward City	
+* Bag Beast No Anus
 * Balk
 * Blanket																	
 * Beard				
@@ -77,6 +78,7 @@
 * Impasse
 * Insider Info
 * In Cahoots
+* IS THAT OKAY HITLER???
 * Jack and The Bean Stalkers
 * Judas Prince
 * Kernel Panic
