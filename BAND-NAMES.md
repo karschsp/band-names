@@ -120,6 +120,7 @@
 * Radio Silence
 * Reglaze the Subroutine
 * Required Attire
+* Reverse Psychiatry
 * Roast Beef Sundae
 * Rug																	
 * Rustic Crust	
@@ -413,3 +414,201 @@
 * Wrecked Angles														
 * ~~The Manny Trio~~ http://www.themannytrio.com/	
 * Yellow Fluff
+* Deceptive Request
+* Steve Vai & The Sikahemas
+* Thomas and The Doubters
+* Lentil Health
+* Buttery Goodness
+* The Last Gasps
+* The Housewives Favorites
+* Ian’s Shirts
+* The Second Guessers
+* The Subtleless Differences
+* The Subtle Differences
+* The Cardboard Hoarders
+* The True Duplicates
+* The Close Talkers
+* The Clothes Stalkers
+* Chaos Controller
+* Weird Sans Talent
+* Feedback Sheets
+* The Smiles of Indulgence
+* The Chalk-line Dollar Signs
+* The Double Sock Guys
+* The Brick Picks
+* The Chubby Jumpers
+* The One-Sided Phone Conversation
+* Wicked Mustard
+* Amazing Cakes
+* Couple #3
+* The Bite Angles
+* The Truant Students
+* The Major Breakthroughs
+* ephemeral storage
+* The Epic Nosebleeds
+* The Cold Shoulder
+* The Dot Connectors
+* the ugly plates
+* the panama papers
+* the insecurities
+* The Designated Hitters
+* The Designated Drinkers
+* The Wild Beards
+* Aaron Nola and The Condolences
+* The Condolences
+* Top Jimmy Buffet
+* The Second String
+* The Dying Embers
+* Endless Embers
+* The Odd Facets
+* he Dirty Glasses
+* The Dirty Dishes
+* The Dirty Laundry
+* The Dirty Squirrels
+* the empty drawers
+* the room keys
+* The Carry-Ons
+* Luggage
+* The Cognitive Biases
+* The Last-Minute Decisions
+* Toxic Ash
+* Forbidden Circle
+* Limb-girdle
+* Low Motor Amplitudes
+* Neuro-muscular Transmission
+* The Pre-synaptic Membranes
+* Dry Mouth
+* Vertigo
+* Autonomic Nervous System
+* Diploplia
+* Voltage-gated Calcium Channel
+* The Side Effects
+* Hydro-steroids
+* Black-box Warnings
+* The Abdominal Cramps
+* Excess Salivation
+* Cognition
+* Long-term Remission
+* Sleep Architecture
+* Ancillary Specifiers
+* Mixed Episodes
+* Adjustment Disorder
+* Hydrogen Wave
+* Drama Llamas
+* President Resident
+* the password resets
+* Death by ads
+* The Fabulous Interstitials
+* The Elaborate Comb-Overs
+* the love bumps
+* the melon ballers
+* the fresh melons
+* the stumps
+* Chocolate Octopus
+* The Bothered Fathers
+* The Lost Causes
+* the long walks
+* The Red-Headed Mexicans
+* Diary of Planets
+* the achy bones
+* feeble
+* Tube Socks and The Flip Flops
+* A Dozen Cousins
+* Terribly Programmed Bots
+* The Drunk Moms
+* The Placebo Effect
+* The Fancy Brands
+* The Contact Highs
+* The Aged Steaks
+* The beautiful Meats
+* The Rugs
+* The Pillows
+* Bru Swains and The Bats
+* Trash Compaction
+* The Handsome Ransomes
+* Shredded Lettuce
+* Shredded Cheddar
+* The Veneers
+* Neutral Zone Infraction
+* The Break Tappers
+* The Cereal Killers
+* The Frail Males
+* The Unnamed Sources
+* The Comas
+* The Chin Wags
+* The Rhetorical Questions
+* the retail holidays
+* the maps
+* Fisticuffs
+* Bloody knuckles
+* the fuzzy robots
+* The #Hashtags
+* The Midnight Snacks
+* The Hospital Socks
+* Buddha Holly
+* Ruthless Wainwright
+* The god-awfuls
+* Toothless Wainwright
+* Synthetic Whispers
+* Farm Suspenders
+* Cowboy Goblin
+* Hazy Bumps
+* Sour Donut
+* Sugar Cornflakes
+* Brown Touchdown
+* Angel Cubes
+* Hamster Zane
+* Ferret Gristle
+* Salty Bart
+* Dolphin Melinda
+* Sandbox Muscles
+* Beach Heaven
+* Plastic Bits
+* Skunk Nap Time
+* Regret Daydream
+* Zamboni Crackers
+* Faux Fighters
+* Hazy Flashback
+* Happy Crackers
+* happy flashback
+* The Ancient Scrolls
+* The Mouth Breathers
+* Personal Space Invaders
+* Bathroom Daydream
+* Atmospheric Hellscape
+* Sloppy Mozzarella
+* Bad Laces
+* The Crisp Bills
+* the leafy greens
+* ragweed
+* grumpy onions
+* the meat sweats
+* Stereotype Threat
+* Subway Dusters
+* the fake labels
+* celebration coma
+* Caloric Intake
+* The Versions
+* The Useable Shots
+* The Instagrammars
+* The Quantizers
+* The Low Bar-setters
+* the coke sneezes
+* blow nose
+* The Critical Listens
+* Operation Diamond Cutter
+* Black Insomnia
+* The Fumin’ Moods
+* The Moving Fueds
+* Family Food
+* Duel
+* The Weathered Condition
+* Bloat
+* the bandless addicts
+* licorice
+* The Albinis
+* the scrolling thumbs
+* The Coma Tubes
+* The Amorous Propensities
+* the shared brains
+* twisty wrist
