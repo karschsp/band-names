@@ -81,6 +81,7 @@
 * IS THAT OKAY HITLER???
 * Jack and The Bean Stalkers
 * Judas Prince
+* Kanye Tweets
 * Kernel Panic
 * King Moonracer
 * Kings of Falafel
