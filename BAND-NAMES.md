@@ -686,6 +686,7 @@
 * Understatement Of The Year	
 * Vagenda of Manocide
 * Vertigo
+* Vicarious Shred
 * Voltage-gated Calcium Channel
 * Wasted Potential
 * Watermelon Sneakers
