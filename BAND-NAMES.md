@@ -239,6 +239,7 @@
 * Salty Bart
 * Sam Hollywood
 * Sandbox Muscles
+* Secretly Icelandic
 * Secret Microphone
 * Secret Teeth
 * Sensory Gate
