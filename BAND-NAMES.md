@@ -181,6 +181,7 @@
 * King Moonracer
 * Kings of Falafel
 * Kip and The Kaspers
+* Knuckle Burn
 * Krell
 * Laugh Muscle
 * Lawn Chair
