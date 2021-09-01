@@ -254,6 +254,7 @@
 * Rabies Encephalitis	
 * Radio Silence
 * ragweed
+* Rainbow Chickens
 * Rancid Quiche
 * Reglaze the Subroutine
 * Regret Daydream
