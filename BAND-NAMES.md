@@ -218,7 +218,8 @@
 * No Comprendo
 * None The Wiser																	
 * Nonsense Johnson
-* Nostril	
+* Nostril
+* Nuances of Hate
 * Off and Running
 * Off-Hours
 * Old Farts (and Patrick)																		
