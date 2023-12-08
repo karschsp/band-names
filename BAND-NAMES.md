@@ -1196,6 +1196,7 @@
 * Static Fallback
 * The Statues
 * Steamroller
+* Steep Cheese
 * The Stems
 * Stephen And The Evens
 * Stephen And The Get-Evens
